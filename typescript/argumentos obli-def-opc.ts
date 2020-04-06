@@ -15,6 +15,9 @@ function activar(quien:string,
 
 activar('Gordon', 'tarde');
 
+ function getEdad(){
+     return 16 + 10;
+ }
 
 
 // function getEdad(){
