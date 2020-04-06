@@ -11,6 +11,8 @@
     cuaquiercosa = numero;
     cuaquiercosa = boolean;
     cuaquiercosa = hoy;
+    cuaquiercosa = manana;
+
 
     let spiderman = {
         nombre: 'Peter',
